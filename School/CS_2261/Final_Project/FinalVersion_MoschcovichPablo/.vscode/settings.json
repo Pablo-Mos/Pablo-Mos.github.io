@@ -1,0 +1,15 @@
+{
+  "files.associations": {
+    "losesong.h": "c",
+    "gamesong.h": "c",
+    "winsong.h": "c",
+    "sound.h": "c",
+    "win.h": "c",
+    "pause.h": "c",
+    "bg.h": "c",
+    "coinsound.h": "c",
+    "ammosound.h": "c",
+    "playerhurt.h": "c",
+    "instructionsscreen.h": "c"
+  }
+}

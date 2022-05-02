@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "hw03lib.h": "c",
+        "ship.h": "c"
+    }
+}
