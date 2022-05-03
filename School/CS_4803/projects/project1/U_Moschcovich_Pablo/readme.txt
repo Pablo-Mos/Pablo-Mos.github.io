@@ -1,0 +1,1 @@
+Basic controls for movement can be done with arrow keys or WASD.
