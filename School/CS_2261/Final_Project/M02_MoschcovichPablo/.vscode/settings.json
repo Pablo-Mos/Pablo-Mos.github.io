@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "lab06lib.h": "c",
-        "foreground.h": "c",
-        "spritesheet.h": "c",
-        "collisionmap.h": "c"
-    }
-}

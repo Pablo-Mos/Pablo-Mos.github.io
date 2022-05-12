@@ -1,8 +1,0 @@
-{
-  "files.associations": {
-    "losesong.h": "c",
-    "gamesong.h": "c",
-    "winsong.h": "c",
-    "sound.h": "c"
-  }
-}
